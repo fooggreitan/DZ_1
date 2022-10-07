@@ -1,0 +1,15 @@
+D:\GeekBrains\DZ_1\EX4\obj\Debug\net6.0\EX4.csproj.AssemblyReference.cache
+D:\GeekBrains\DZ_1\EX4\obj\Debug\net6.0\EX4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\DZ_1\EX4\obj\Debug\net6.0\EX4.AssemblyInfoInputs.cache
+D:\GeekBrains\DZ_1\EX4\obj\Debug\net6.0\EX4.AssemblyInfo.cs
+D:\GeekBrains\DZ_1\EX4\obj\Debug\net6.0\EX4.csproj.CoreCompileInputs.cache
+D:\GeekBrains\DZ_1\EX4\bin\Debug\net6.0\EX4.exe
+D:\GeekBrains\DZ_1\EX4\bin\Debug\net6.0\EX4.deps.json
+D:\GeekBrains\DZ_1\EX4\bin\Debug\net6.0\EX4.runtimeconfig.json
+D:\GeekBrains\DZ_1\EX4\bin\Debug\net6.0\EX4.dll
+D:\GeekBrains\DZ_1\EX4\bin\Debug\net6.0\EX4.pdb
+D:\GeekBrains\DZ_1\EX4\obj\Debug\net6.0\EX4.dll
+D:\GeekBrains\DZ_1\EX4\obj\Debug\net6.0\refint\EX4.dll
+D:\GeekBrains\DZ_1\EX4\obj\Debug\net6.0\EX4.pdb
+D:\GeekBrains\DZ_1\EX4\obj\Debug\net6.0\EX4.genruntimeconfig.cache
+D:\GeekBrains\DZ_1\EX4\obj\Debug\net6.0\ref\EX4.dll
