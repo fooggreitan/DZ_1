@@ -1,0 +1,15 @@
+D:\GeekBrains\DZ_1\EX3\bin\Debug\net6.0\EX3.exe
+D:\GeekBrains\DZ_1\EX3\bin\Debug\net6.0\EX3.deps.json
+D:\GeekBrains\DZ_1\EX3\bin\Debug\net6.0\EX3.runtimeconfig.json
+D:\GeekBrains\DZ_1\EX3\bin\Debug\net6.0\EX3.dll
+D:\GeekBrains\DZ_1\EX3\bin\Debug\net6.0\EX3.pdb
+D:\GeekBrains\DZ_1\EX3\obj\Debug\net6.0\EX3.csproj.AssemblyReference.cache
+D:\GeekBrains\DZ_1\EX3\obj\Debug\net6.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\DZ_1\EX3\obj\Debug\net6.0\EX3.AssemblyInfoInputs.cache
+D:\GeekBrains\DZ_1\EX3\obj\Debug\net6.0\EX3.AssemblyInfo.cs
+D:\GeekBrains\DZ_1\EX3\obj\Debug\net6.0\EX3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\DZ_1\EX3\obj\Debug\net6.0\EX3.dll
+D:\GeekBrains\DZ_1\EX3\obj\Debug\net6.0\refint\EX3.dll
+D:\GeekBrains\DZ_1\EX3\obj\Debug\net6.0\EX3.pdb
+D:\GeekBrains\DZ_1\EX3\obj\Debug\net6.0\EX3.genruntimeconfig.cache
+D:\GeekBrains\DZ_1\EX3\obj\Debug\net6.0\ref\EX3.dll
