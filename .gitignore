@@ -12,6 +12,9 @@
 
 .bin\
 .obj\
+.Debuf\
+.net6.0\
+.vscode\
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
